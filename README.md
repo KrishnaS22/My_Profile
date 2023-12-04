@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KrishnaS22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KrishnaS22 {FullName: Krishna Swarnkar}
+- 👀 I’m interested in Python and PHP codeing 
+- 🌱 I’m currently working
+- 💞️ I’m looking to collaborate on WebDevelopmentProject and AI.
+- 📫 How to reach me kswarnkar216@gmail.com
 
 <!---
 KrishnaS22/KrishnaS22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
