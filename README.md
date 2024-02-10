@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishnaS22 {FullName: Krishna Swarnkar}
+- 👋 Hi, I’m @KrishnaS22 {Full_Name: Krishna Swarnkar}
 - 👀 I’m interested in Python and PHP codeing 
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate on WebDevelopmentProject and AI.
